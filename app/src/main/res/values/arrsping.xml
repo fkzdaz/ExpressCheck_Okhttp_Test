@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrsping">
+        <item>  申通  </item>
+        <item>  EMS  </item>
+        <item>  中通  </item>
+        <item>  顺丰  </item>
+        <item>  天天  </item>
+        <item>  国通  </item>
+        <item>  汇通  </item>
+        <item>  韵达  </item>
+        <item>  圆通  </item>
+    </string-array>
+</resources>
